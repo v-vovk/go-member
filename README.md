@@ -2,7 +2,7 @@
 
 ## How to start
 
-In the project directory, follow next step:
+Clone project. In the project directory, follow next step:
 
 ```
 cd ./server
@@ -16,7 +16,7 @@ Lets run client part.
 
 ```
 cd ../client
-npm istall
+npm install
 npm run start
 ```
 
